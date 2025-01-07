@@ -1,10 +1,10 @@
 terraform { 
   cloud { 
     
-    organization = "DigitalWitchng" 
+    organization = "Cloudtechmi-terraform-organization" 
 
     workspaces { 
-      name = "kubernetes-google-gke" 
+      name = "Group_5_capstone_project" 
     } 
   } 
 }
